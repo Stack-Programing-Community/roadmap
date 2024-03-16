@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T11:00:30.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" version="24.0.7" etag="OJhlhEszq7wkt6GAB4Jp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T11:11:17.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="lMYysTzuWcZR5jpaw7hV" version="24.0.7" type="github">
   <diagram name="ページ1" id="b2aWTyTd_zoUauo7ShDc">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bhmkObcvvG-5hzax_I_n-1" value="Academical events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-2" value="Technical events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-5" value="Presentation" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.529;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417" y="290" as="sourcePoint" />
+            <mxPoint x="416.93000000000006" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-12" value="Feedback" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="161" as="sourcePoint" />
+            <mxPoint x="347" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-15" value="Presentation" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.529;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="618" y="292" as="sourcePoint" />
+            <mxPoint x="617.9300000000001" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-16" value="Feedback" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548" y="163" as="sourcePoint" />
+            <mxPoint x="548" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
