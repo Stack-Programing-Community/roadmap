@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T11:16:16.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-KI29w8JMBPZZMAz0G8A" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T11:18:37.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-Ft1r0Pr_OxQgH_Tbfzm" version="24.0.7" type="github">
   <diagram name="ページ1" id="b2aWTyTd_zoUauo7ShDc">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bhmkObcvvG-5hzax_I_n-18" value="&lt;div&gt;Academic fields&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="180" y="10" width="300" height="170" as="geometry" />
+        <mxCell id="bhmkObcvvG-5hzax_I_n-18" value="&lt;div&gt;Academic Fields&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="bhmkObcvvG-5hzax_I_n-17" value="Stack Programming Community" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="300" y="283" width="370" height="110" as="geometry" />
@@ -39,6 +39,9 @@
             <mxPoint x="548" y="163" as="sourcePoint" />
             <mxPoint x="548" y="293" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bhmkObcvvG-5hzax_I_n-19" value="UEC Programming School" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;opacity=50;perimeterSpacing=50;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
